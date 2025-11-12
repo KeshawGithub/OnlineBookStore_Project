@@ -64,42 +64,12 @@ It provides an online platform for buying and selling new and used books with tw
 
 ## 🗂️ Project Structure
 
-E-Book/
-│
-├── src/main/java/Ebook/
-│ ├── AdminServlet/ # Handles admin functionalities
-│ ├── UserServlet/ # Handles user functionalities
-│ ├── Curd/ # DAO layer for CRUD operations
-│ ├── DB/ # Database connection classes
-│ └── Entity/ # Entity classes for Book, User, Order, etc.
-│
-├── src/main/webapp/
-│ ├── Admin/ # Admin JSP pages
-│ │ ├── addBook.jsp
-│ │ ├── allBooks.jsp
-│ │ ├── allOrder.jsp
-│ │ ├── allUser.jsp
-│ │ ├── EditBook.jsp
-│ │ └── AdminHome.jsp
-│ │
-│ ├── WEB-INF/ # Configuration and protected JSP files
-│ ├── all_component/ # Common UI components (navbar, footer)
-│ ├── bookImg/ # Book images
-│ ├── imageEbook/ # Static images
-│ ├── index.jsp # Landing page
-│ ├── Home.jsp # Home page after login
-│ ├── register.jsp # User registration
-│ ├── userSetting.jsp # User settings
-│ ├── SellOldBook.jsp # Old book selling page
-│ ├── allNewBook.jsp # Displays all new books
-│ ├── allOldBook.jsp # Displays all old books
-│ ├── viewBook.jsp # Book details page
-| ├── MyOrder.jsp # User order management
-│ └── And many more pages are there..
-│
-├── Libraries/ # External libraries (JDBC, Servlet API)
-├── Deployed Resources/ # Web content deployed on Tomcat
-└── README.md # Project documentation
+<img width="738" height="830" alt="image" src="https://github.com/user-attachments/assets/9cc9cf0e-de93-4919-b68d-7de28045b4a0" />
+<img width="723" height="851" alt="image" src="https://github.com/user-attachments/assets/34930e69-2e79-4c6c-b408-f6fa734fa324" />
+<img width="695" height="52" alt="image" src="https://github.com/user-attachments/assets/bce689ef-0f7b-4f52-a449-493c2e24e57e" />
+
+
+
 
 
 
